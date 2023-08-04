@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  pading: 0px;
+  box-sizing: border-box;
+}
+.MainContainer {
+  height: 100vh;
+}
+.Container {
+  display: flex;
+}
+.shoeImg {
+  height: 100px;
+  width: 100px;
+}

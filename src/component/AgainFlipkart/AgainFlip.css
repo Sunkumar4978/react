@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.component-one {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 15px;
+}
+.btn {
+  width: 20vh;
+  margin: 15px;
+  padding: 10px;
+}
+.select-btn {
+  height: 30px;
+  padding: 5px;
+}
+.image-layout {
+  /* overflow: hidden; */
+  margin: 10px;
+}
+.component-two {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+.img {
+  width: 100%;
+}
+
