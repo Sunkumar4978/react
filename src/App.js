@@ -1,7 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import AppRoutes from "./component/router useNavigate navigate task/AppRoutes";
-import NavBar from "./component/router useNavigate navigate task/NavBar";
+import AppRoutes from "./component/code spliting/AppRoutes";
+import NavBar from "./component/code spliting/NavBar";
 // import Aside from "./component/E-Comerce/E-Aside";
 // import AgainAside from "./component/AgainFlipkart/AgainAside";
 // import AddToCart from "./component/UseEffect/Cart/AddToCart";

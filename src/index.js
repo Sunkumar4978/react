@@ -6,7 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 // import AgainContext from "./component/AgainFlipkart/AgainContext";
 // import Context from "./component/E-Comerce/E-Context";
 import { BrowserRouter } from "react-router-dom";
-import UserContextProvider from "./component/router useNavigate navigate task/UserContextProvider";
+import UserContextProvider from "./component/code spliting/UserContextProvider";
 // import MainContextToDo from "./component/useContext/TodoTas/MainContext";
 // import AddCartContext from "./component/UseEffect/AddToCart/CartContext";
 // import AreaContext from "./component/useContext/Area/AreaContext";
